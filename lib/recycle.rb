@@ -43,7 +43,7 @@ end
 #You should use the `each_value` method to iterate over your hash and print out each value.
 
 def all_data(first_recycle_bin)
-  print first_recycle_bin.values
+  puts first_recycle_bin.values
 end
 
 #5. Define a method called `key_and_data` that takes a hash as an argument.
